@@ -1,4 +1,4 @@
-## Hi 😁
+## Hi 😊
 
 Im a Javascript Developer . I worked with Javascript for the past +4 years its a good friend for me.
 I also try to create open source projects if I had time.
