@@ -3,7 +3,7 @@
 Im a Javascript Developer . I worked with Javascript for the past +4 years its a good friend for me.
 I also try to create open source projects if I had time.
 
-I'm currently working at [Showay](https://showay.ir) as full stack developer also I try to post articles on [Medium](https://medium.com/@hadii.tanoomand).
+I'm currently working at [Showay](https://showay.ir) as full stack developer.
 
 ### My tech stack
 
