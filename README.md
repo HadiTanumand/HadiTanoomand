@@ -13,7 +13,7 @@ I'm currently working at [Showay](https://showay.ir).
 [<img src="https://github.com/HadiTanumand/HadiTanoomand/blob/main/assets/html.svg" width="20px"  alt="HTML"/>](https://github.com/HadiTanumand)
 [<img src="https://github.com/HadiTanumand/HadiTanoomand/blob/main/assets/css.svg" width="20px"  alt="CSS"/>](https://github.com/HadiTanumand)
 
-### 🌐
+### 
 
 [<img src="https://github.com/HadiTanumand/HadiTanoomand/blob/main/assets/website.svg" width="20px"  alt="website"/> Website](http://showay.ir)
 
