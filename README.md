@@ -1,6 +1,6 @@
 ## Hi
 
-im a Front-End Developer.
+I'm a Front-End Developer.
 
 I'm currently working at [Showay](https://showay.ir).
 
