@@ -1,11 +1,10 @@
-## Hi 😊
+## Hi
 
-Im a Javascript Developer . I worked with Javascript for the past +4 years its a good friend for me.
-I also try to create open source projects if I had time.
+im a Front-End Developer.
 
 I'm currently working at [Showay](https://showay.ir).
 
-### My tech stack
+### tech stack
 
 [<img src="https://github.com/HadiTanumand/HadiTanoomand/blob/main/assets/javascript.svg" width="20px"  alt="Javascript"/>](https://github.com/HadiTanumand)
 [<img src="https://github.com/HadiTanumand/HadiTanoomand/blob/main/assets/typescript.svg" width="20" height="20px" alt="Typescript" />](https://github.com/HadiTanumand)
