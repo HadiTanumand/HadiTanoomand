@@ -2,8 +2,6 @@
 
 I'm a Front-End Developer.
 
-I'm currently working at [Showay](https://showay.ir).
-
 ### tech stack
 
 [<img src="https://github.com/HadiTanumand/HadiTanoomand/blob/main/assets/javascript.svg" width="20px"  alt="Javascript"/>](https://github.com/HadiTanumand)
